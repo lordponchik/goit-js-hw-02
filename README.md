@@ -66,7 +66,7 @@ console.log(calculateEngravingPrice('Donec orci lectus aliquam est magnis', 40))
 console.log(calculateEngravingPrice('Donec orci lectus aliquam est magnis', 20)); // 120
 ```
 
-# Задание 3
+# Task 3
 
 Write a function `findLongestWord(string)` that takes an arbitrary string as a parameter (in the
 line there will be only words and spaces) and returns the longest word in this string.
